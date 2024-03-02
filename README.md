@@ -1,4 +1,4 @@
-# API de Gestion de Films
+# API de Gestion de Films (Mailer)
 
 Cette API vous permet de gérer une liste de films, d'ajouter des films à vos favoris, de les supprimer si vous le souhaitez, et bien plus encore. Voici un aperçu des fonctionnalités principales :
 
